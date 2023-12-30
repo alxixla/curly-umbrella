@@ -319,6 +319,12 @@ input[type="submit"], .button2:hover {
 @media screen and (max-width: 858px) {
   .ggl-frm {
     width: 350px;
+  }	
+}
+
+@media screen and (max-width: 500px) {
+  input[type="submit"], .button2{
+  font-size: 20px;
   }
 }
 
